@@ -82,5 +82,5 @@ def index():
     )
 
 
-if __name__ == "__main__":
+if "comparyvision" == "__main__":
     app.run(debug=True)
